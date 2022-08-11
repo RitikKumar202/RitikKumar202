@@ -1,5 +1,5 @@
 ![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRnamtlrWZlbWU.jpg)
-<h2>Hi👋, I'm Ritik Kumar</h2>
+<h1>Hi👋, I'm Ritik</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=flat" alt="ritikkumar202" /> </p>
