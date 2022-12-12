@@ -1,4 +1,3 @@
-![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRnamtlrWZlbWU.jpg)
 <h1>Hi👋, I'm Ritik</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
