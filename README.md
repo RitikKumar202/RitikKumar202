@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritikkumar202"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white&style=for-the-badge" alt="LinkedIn"></a> 
-<a href="https://codechef.com/in/dreamer365"><img src="https://img.shields.io/badge/Codechef-%238A4182.svg?logo=codechef&amp;logoColor=white&style=for-the-badge" alt="Codechef"></a>
-<a href="https://codeforces.com/in/error_202"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a>
-<a href="https://leetcode.com/in/error_202"><img src="https://img.shields.io/badge/leetcode-%23FF9900.svg?logo=leetcode&amp;logoColor=white&style=for-the-badge" alt="Leetcode"></a>
+<a href="https://codechef.com/users/dreamer365"><img src="https://img.shields.io/badge/Codechef-%238A4182.svg?logo=codechef&amp;logoColor=white&style=for-the-badge" alt="Codechef"></a>
+<a href="https://codeforces.com/profile/error_202"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a>
+<a href="https://leetcode.com/error_202"><img src="https://img.shields.io/badge/leetcode-%23FF9900.svg?logo=leetcode&amp;logoColor=white&style=for-the-badge" alt="Leetcode"></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
