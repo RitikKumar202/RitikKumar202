@@ -1,15 +1,11 @@
-<h1>Hi👋, I'm Ritik</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h2>Hi there 👋 My name is Ritik - welcome to my Github!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=flat" alt="ritikkumar202" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ritikkumar202" /> </p>
 
 - 🌱 I’m currently learning **React, Nodejs, Data Structure & Algorithm**
-
-- 👨‍💻 All of my projects are available at [ritikkumar202.github.io/portfolio](ritikkumar202.github.io/portfolio)
-
+- 👨‍💻 My portfolio is available at [ritikkumar202.github.io/portfolio](ritikkumar202.github.io/portfolio)
 - 💬 Ask me about **Html, CSS, JavaScript, C/C++**
-
-- 📫 How to reach me **ritik2002july@gmail.com**
+- 📫 How to reach me : **ritik2002july@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
