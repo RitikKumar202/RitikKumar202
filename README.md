@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ritikkumar202" /> </p>
 
 - 🌱 I’m currently learning **React, Nodejs, Data Structure & Algorithm**
-- 👨‍💻 My portfolio is available at [ritikkumar202.github.io/portfolio](ritikkumar202.github.io/portfolio)
+- 👨‍💻 My portfolio is available at [ritikkumar202.github.io/portfolio](https://ritikkumar202.github.io/portfolio/)
 - 💬 Ask me about **Html, CSS, JavaScript, C/C++**
 - 📫 How to reach me : **ritik2002july@gmail.com**
 
