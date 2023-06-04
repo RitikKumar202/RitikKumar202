@@ -55,6 +55,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitikKumar202&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Watch my contribution graph get eaten by the snake🐍
 ![snake gif](https://github.com/RitikKumar202/RitikKumar202/blob/output/github-contribution-grid-snake.svg)
 
