@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>  
 
-<h3 align="left">📈GitHub Stats:</h3>
+<h3 align="left">📈My GitHub Stats:</h3>
 
 <p>
   <picture>
@@ -54,5 +54,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar202&amp;theme=dark&amp;hide_border=false" alt=""><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 </p>
-![Snake animation](https://github.com/ritikkumar202/ritikkumar202/blob/output/github-contribution-grid-snake.svg)
+
+## Watch my contribution graph get eaten by the snake🐍
+![snake gif](https://github.com/RitikKumar202/RitikKumar202/blob/output/github-contribution-grid-snake.svg)
 
