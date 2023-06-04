@@ -1,4 +1,5 @@
-<h2>Hi there 👋 my name is Ritik Kumar - Welcome to my Github!</h2>
+<h2 align="center">Hi, Guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="24px" height="24px"></h2>
+<h4 align="center">Welcome to my Github! </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ritikkumar202" /> </p>
 
