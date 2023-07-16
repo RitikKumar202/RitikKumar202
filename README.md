@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Django, Data Structure & Algorithm**
 - 👨‍💻 My portfolio is available at [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
-- 💬 Ask me about **C/C++, Html, CSS, MERN stack, DSA**
+- 💬 Ask me about **C/C++, Html, CSS, MERN Stack, DSA**
 - 📫 How to reach me : **ritik2002july@gmail.com**
 
 <h3 align="left">💬Connect with me:</h3>
