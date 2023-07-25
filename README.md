@@ -1,19 +1,32 @@
-<h2 align="center">Hi, Guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="24px" height="24px"></h2>
-<h4 align="center">Welcome to my Github! </h4>
+<h2 align="center">Hello, Coders! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="24px" height="24px"></h2>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100"/>
+</div>
+<h4 align="center">Welcome to my Github👨‍💻! </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ritikkumar202" /> </p>
+<p align="center">
+  <a href="https://twitter.com/imritikumar" target="blank"><img src="https://img.shields.io/twitter/follow/imritikumar?logo=twitter&style=for-the-badge" alt="imritikumar" /></a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/ritikkumar202" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white&style=for-the-badge" alt="LinkedIn"></a> 
+</p>
 
-- 🌱 I’m currently learning **React, Node.js, Django, Data Structure & Algorithm**
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ritikkumar202&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ritikkumar202" /> 
+</p>
+
+
+- 🌱 I’m currently learning **Python, Django and DSA**
 - 👨‍💻 My portfolio is available at [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
-- 💬 Ask me about **C/C++, Html, CSS, MERN Stack, DSA**
-- 📫 How to reach me : **ritik2002july@gmail.com**
+- 💬 Ask me about **C/C++, MERN Stack, DSA**
+- ⚡ In my free time I solve problems on Leetcode, Codeforces & Codechef and Play Online Games.
+- 📫 Feel Free to reach out me on : **ritik2002july@gmail.com**
 
-<h3 align="left">💬Connect with me:</h3>
+<h3 align="left">👨‍💻Coding Profile:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritikkumar202"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white&style=for-the-badge" alt="LinkedIn"></a> 
-<a href="https://codechef.com/users/dreamer365"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"></a>
-<a href="https://codeforces.com/profile/error_202"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a>
-<a href="https://leetcode.com/error_202"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
+<a href="https://codechef.com/users/dreamer365" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"></a>
+<a href="https://codeforces.com/profile/error_202" target="blank"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a>
+<a href="https://leetcode.com/error_202" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
 </p>
 
 <h3 align="left">📋Languages:</h3>
@@ -58,6 +71,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitikKumar202&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Watch my contribution graph get eaten by the snake🐍
-![snake gif](https://github.com/RitikKumar202/RitikKumar202/blob/output/github-contribution-grid-snake.svg)
 
