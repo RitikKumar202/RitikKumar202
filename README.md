@@ -16,9 +16,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **Python, Django and DSA**
-- 👨‍💻 My portfolio is available at [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
-- 💬 Ask me about **C/C++, MERN Stack, DSA**
+- 🌱 I’m currently learning and solving `DSA` problems and exploring new `web development` technologies and libraries.
+- 👨‍💻 Checkout my [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
+- 💬 Ask me about `C/C++` `MERN Stack` `DSA`
 - ⚡ In my free time I solve problems on Leetcode, Codeforces & Codechef and Play Online Games.
 - 📫 Feel Free to reach out me on : **ritik2002july@gmail.com**
 
