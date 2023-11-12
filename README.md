@@ -16,9 +16,10 @@
 </p>
 
 
-- 🌱 I’m currently learning and solving `DSA` problems and exploring new `web development` technologies and libraries.
+- 🌱 I love learning about Web Technologies and solving Algorithmic problems.
+- 🤝 I'm open to collaborating with others on various Web Development projects.
 - 👨‍💻 Checkout my [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
-- 💬 Ask me about `C/C++` `MERN Stack` `DSA`
+- 💬 Ask me about `C/C++` `MERN Stack` `DSA`.
 - ⚡ In my free time I solve problems on Leetcode, Codeforces & Codechef and Play Online Games.
 - 📫 Feel Free to reach out me on : **ritik2002july@gmail.com**
 
