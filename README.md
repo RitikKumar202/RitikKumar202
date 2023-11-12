@@ -16,6 +16,7 @@
 </p>
 
 
+- ✈️ Currently, I'm open to SWE/SDE/Frontend/Backend internship & FTE opportunity. Hire Me :)
 - 🌱 I love learning about Web Technologies and solving Algorithmic problems.
 - 🤝 I'm open to collaborating with others on various Web Development projects.
 - 👨‍💻 Checkout my [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/)
