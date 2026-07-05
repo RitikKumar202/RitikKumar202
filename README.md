@@ -1,8 +1,8 @@
-<h2 align="center">Hello, Developers! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="24px" height="24px"></h2>
+<h2 align="center">Hi, I'm Ritik <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="24px" height="24px"></h2>
 <div align="center">
   <img src="https://media1.giphy.com/media/tydpNxSnNEgLvDm11D/giphy.gif?cid=ecf05e47w1r2veiaoq4ilcyymphznfi12pnk68otzoav2hol&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180"/>
 </div>
-<h4 align="center">Welcome to my Github👨‍💻 </h4>
+<h4 align="center">Building faster with AI. Engineering for quality </h4>
 
 <p align="center">
   <a href="https://twitter.com/imritikumar" target="blank"><img src="https://img.shields.io/twitter/follow/imritikumar?logo=twitter&style=for-the-badge" alt="imritikumar" /></a>
@@ -16,10 +16,11 @@
 </p>
 
 
-- 🚀 I’m currently learning Jenkins & AWS.
-- 💬 Ask me about C++, React.js, Node.js.
-- ⚡ In my free time I solve problems on Leetcode, Codeforces & Codechef and Play Online Games.
-- 📫 Feel Free to reach out me on : **ritik2002july@gmail.com**
+- 💼 Frontend Developer with **2+ years of experience**.
+- ⚛️ Building modern web/mobile apps using **React, Next.js & React Native**.
+- 🚀 Currently learning **System Design**.
+- 🎯 Passionate about **clean code, accessibility, performance & developer experience**
+- 📫 Reach me at : **ritik2002july@gmail.com**
 
 <h3 align="left">👨‍💻Coding Profile:</h3>
 <p align="left">
@@ -29,17 +30,32 @@
 </p>
 
 <h3 align="left">📋Languages:</h3>
-<p><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">         </p>
+<p><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=TypeScript&amp;logoColor=FFF" alt="Typescript"> 
+</p>
 
 <h3 align="left">📚Frameworks and Libraries:</h3>
 <p>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="Next.js">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-React%20native-000?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS&logoColor=38B2AC" alt="SCSS">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white" alt="Chart JS">
+  <img src="https://img.shields.io/badge/framer_motion-ffca28?style=for-the-badge&logo=framer&logoColor=%23ffffff&color=%237178f6" alt="Motion">
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=Zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite JS">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
 </p>  
 
 <h3 align="left">💻Developer Tools:</h3>
 <p>
-  <img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github"> <img src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime-text"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
+  <img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github"> <img src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime-text"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
 </p>
 
 <h3 align="left">💾 Databases: </h3>
