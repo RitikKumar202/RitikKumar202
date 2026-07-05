@@ -75,19 +75,23 @@
 <p>
   <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ritikkumar202&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.shion.dev/api?username=ritikkumar202&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
+
 <img src="https://github-readme-stats.vercel.app/api?username=ritikkumar202&show_icons=true" />
 </picture> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikkumar202&amp;theme=dark&amp;hide_border=false" alt=""><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+
+<!-- Top Languages Stats Card -->
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ritikkumar202&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">  
 </p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitikKumar202&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/ritikkumar202/ritikkumar202/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
